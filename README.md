@@ -9,9 +9,13 @@ This project was built for the [Create a front-end app with React Skill Path](ht
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In order to make the app work, paste your ClientId from the Spotify API on line 1 in src/util/Spotify.js
+
+
 ## Credits
 
 All copyright for the code and design to [Codecademy](https://www.codecademy.com/)
+
 [Background image](https://www.pexels.com/photo/blurry-image-of-a-brownish-background-1242348/)
 
 
