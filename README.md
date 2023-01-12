@@ -7,9 +7,12 @@ Jamming is a responsive React web app that uses the Spotify API to:
 
 This project was built for the [Create a front-end app with React Skill Path](https://www.codecademy.com/learn/paths/build-web-apps-with-react)
 
+[Live Website](https://kb-jamming.surge.sh/)
+
+![jamming live](public/jamming-live.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In order to make the app work, paste your ClientId from the Spotify API on line 1 in src/util/Spotify.js
 
 
 ## Credits

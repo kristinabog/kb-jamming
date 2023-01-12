@@ -1,5 +1,5 @@
-const clientId = '';
-const redirectUri = "http://localhost:3000";
+const clientId = '5174120a50944943adb1c46f27cd9051';
+const redirectUri = "http://kb-jamming.surge.sh";
 let accessToken;
 
 const Spotify = {
